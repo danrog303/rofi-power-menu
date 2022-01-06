@@ -21,5 +21,8 @@ This script assumes, that your minimalist Linux installation uses dwm or i3 as w
 4. Give rofi-power-menu.sh execution rights by running `chmod a+x rofi-power-menu.sh`
 5. Run rofi-power-menu.sh to open power management menu
 
+## Screenshots
+<img alt="Screenshot: rofi-power-menu" src="https://user-images.githubusercontent.com/32397526/148371259-9f50f1ad-3cab-4ea4-a765-36ad68796e0f.png" width="400">
+
 ## Technologies used
 This script has been written in pure POSIX-compliant Linux shell (`/bin/sh`). Script should run on any Linux distribution where all required dependencies can be installed.
